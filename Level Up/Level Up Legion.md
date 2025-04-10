@@ -34,7 +34,7 @@ sudo chmod +x arcadecrew.sh
   <h3>📱 Join the Level Up Legion Community</h3>
   
   <a href="https://youtube.com/@level-up-legion-001?si=3EJ8ocgkDXlj7spS">
-    <img src="https://img.shields.io/badge/Subscribe-Arcade%20Crew-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
+    <img src="https://youtube.com/@level-up-legion-001?si=3EJ8ocgkDXlj7spS"&logo=youtube&logoColor=white" alt="YouTube Channel">
 
 </div>
 
